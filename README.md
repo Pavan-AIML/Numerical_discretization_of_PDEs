@@ -7,4 +7,4 @@
 
 <h3> The results from the differnet methods <h3>
 
-![Alt text](/Users/pavankumar/Documents/Winter_Semester24/Numerics_of_differential_equations/Coding_tasks /Chapter_2 coding)
+![Alt text](CODING_TASKS/Chapter_2 coding/img_1.png)
