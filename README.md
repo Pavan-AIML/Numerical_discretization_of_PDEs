@@ -7,4 +7,4 @@
 
 <h3> The results from the differnet methods <h3>
 
-![Alt text](CODING_TASKS/Chapter_2 coding/img_1.png)
+![Alt text](https://github.com/Pavan-AIML/Numerical_discretization_of_PDEs/blob/main/img_1.png?raw=true)
