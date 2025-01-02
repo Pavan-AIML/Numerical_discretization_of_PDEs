@@ -1,1 +1,1 @@
-from diff_eq import f
+from functions.diff_eq import f
