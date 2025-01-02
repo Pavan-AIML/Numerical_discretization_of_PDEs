@@ -7,7 +7,7 @@
 
 <h3> The results from the differnet methods <h3>
 
-<p align = center> $$ y' = \lambda y $$</p>
+<p align = center> $$ \(y' = \lambda y\) $$</p>
 ![Alt text](https://github.com/Pavan-AIML/Numerical_discretization_of_PDEs/blob/main/img_1.png?raw=true)
 ![Alt_text](https://github.com/Pavan-AIML/Numerical_discretization_of_PDEs/blob/main/img_2.png?raw=true)
 ![Alt_text](https://github.com/Pavan-AIML/Numerical_discretization_of_PDEs/blob/main/Img_3.png?raw=true)
